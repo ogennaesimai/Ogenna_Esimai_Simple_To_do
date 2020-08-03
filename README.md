@@ -17,11 +17,13 @@ The following **optional** feature is implemented:
 
 * (x) User can **persist todo items** and retrieve them properly on app restart
 
-## Walkthrough Shots
+## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
+<img src = 'Ogenna_Esimai_Simple_To_do_Video_Walkthrough.gif 'title= 'Video Walkthrough' width= '' alt='Video Walkthrough' />
 
+GIF created with LiceCap v1.28
 
 ## License
 
