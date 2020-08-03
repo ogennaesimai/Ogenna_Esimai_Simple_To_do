@@ -21,9 +21,9 @@ The following **optional** feature is implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src = 'Ogenna_Esimai_Simple_To_do_Video_Walkthrough.gif 'title= 'Video Walkthrough' width= '' alt='Video Walkthrough' />
+<img src = 'https://github.com/ogennaesimai/Ogenna_Esimai_Simple_To_do/blob/master/Ogenna_Esimai_Simple_To_do_Video_Walkthrough.gif' title= 'Video Walkthrough' width= '' alt='Video Walkthrough' />
 
-GIF created with LiceCap v1.28
+GIF created with LiceCap v1.28 (https://www.cockos.com/licecap/) 
 
 ## License
 
