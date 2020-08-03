@@ -10,12 +10,14 @@ Time spent: >5 hours spent in total
 
 The following **required** functionality is completed:
 
-* (x) User can **successfully add and remove items** from the todo list
-* (x) User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [x] User can **view a list of todo items**
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
-The following **optional** feature is implemented:
+The following **optional** features are implemented:
 
-* (x) User can **persist todo items** and retrieve them properly on app restart
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [x] User receives **feedback on successful add, delete, and update** of items on the todo list 
 
 ## Video Walkthrough 
 
@@ -23,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src = 'https://github.com/ogennaesimai/Ogenna_Esimai_Simple_To_do/blob/master/Ogenna_Esimai_Simple_To_do_Video_Walkthrough.gif' title= 'Video Walkthrough' width= '' alt='Video Walkthrough' />
 
-GIF created with LiceCap v1.28 (https://www.cockos.com/licecap/) 
+GIF created with [LiceCap](https://www.cockos.com/licecap/) v1.28 
 
 ## License
 
